@@ -59,14 +59,15 @@ In recent years, ML models for clinical decision support system has become much 
 
 ### Exploiting similarity of dissimilarities to predict protein function in the twilight-zone
 Predicting protein function from sequence information only is a di@icult task specially for the sequences where the similarity with reference sequence is very small, i.e., twilight-zone sequences. As these types of sequences are di@icult to annotate, the existing databases consist very little amount of them. As a result, di@erent computational method providing performance comparison on overall dataset, show very good performance only reflecting better performance for easy proteins. Hence, to annotate these di@icult proteins, we employed the concept of similarity of dissimilarities to account for sequences which share very less sequence similarity. The dissimilarity features are calculated by comparing sequences from one family with sequences from other families. Where the similarity values are higher they can readily be identified, but while the similarity scores are very low the dissimilarity values enhance the power of the ML models. Thus sequences in the twilight-zone can be identified better with this approach compared to the state-of-the-art methods. We employed this idea to predict protein function specially in the twilight- zone, to do enzyme classification where members share little similarity among them due to hierarchical classification, to identify proteins and predict their functions in multi-domain proteins. Overall, the aim of this project is to be able to get proteins from a genome and predict function for those. This was my PhD thesis subject and we have published one paper from it.
-</details>
+
 
 ## Publications
 ### 1. “Exploiting the Similarity of Dissimilarities for Biomedical Applications and Enhanced Machine Learning”, Mohammad Neamul Kabir, Wang Li Rong, Wilson Wen Bin Goh, PLOS Computational Biology (in press), 2024
 ### 2. [“Ten quick tips for ensuring Machine Learning model validity”](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012402), Wilson Wen Bin Goh, Mohammad Neamul Kabir, Sehwan Yoo, Limsoon Wong, PLOS Computational Biology 20, no. 9 (2024)
 ### 3. [“EnsembleFam: towards more accurate protein family prediction in the twilight zone”](https://link.springer.com/article/10.1186/s12859-022-04626-w), Mohammad Neamul Kabir, Limsoon Wong, BMC Bioinformatics 23, no. 1 (2022)
 
-  ## Previous Work Experiences
+
+## Previous Work Experiences
 
   #### Research Fellow
   * **Instituition:** LKC School of Medicine, NTU, Singapore
@@ -80,7 +81,7 @@ Predicting protein function from sequence information only is a di@icult task sp
   * **Instituition:** Ahsanullah University of Science and Technology, Bangladesh
   * **Period:** May'2017 to December'2017
 
-  ## Education
+## Education
 
   ### Ph.D. in Computer Science
   * **Instituition:** School of Computing, National University of Singapore, Singapore
