@@ -7,10 +7,7 @@ An aspiring researcher and educator, want to flourish in data science and machin
 ## Current Position
 At present, I am working as a **Research Fellow** at *Centre of AI in Medicine* at Lee Kong Chian School of Medicine in NTU. Here, I work with clinician scientists to analyze clinical data and build advanced machine learning models for different clinical prediction task such as early disease risk prediction, ICU mortality prediction, hospital re-admission prediction etc.
 
-<details markdown="1">
-<summary> <h2><b>Teaching</b></h2>  (click to view more)</summary>
-  
-##
+## Teaching
   
 #### 1. (NUS) Basic AI Competency Course
 * **Role:** Primary Instructor
@@ -43,7 +40,7 @@ At present, I am working as a **Research Fellow** at *Centre of AI in Medicine* 
 * **Theory Courses:** C programming, Python programming
 * **Laboratory Courses:** Computer Graphics, Assemble Language, Digital System Design, Digital Logic Design
 
-</details>
+
 
 ## Research Interest
 * Digital health
@@ -51,10 +48,8 @@ At present, I am working as a **Research Fellow** at *Centre of AI in Medicine* 
 * Data science
 * Computational Biology
 
-<details>
-<summary> <h2><b>Research Projects</b></h2>  (click to view more)</summary>
 
-##
+## Research Projects
 
 ### Cancer-risk prediction for diabetic patients
 Diabetic patients, particularly those with Type 2 diabetes have an elevated risk of developing certain types of cancer compared to individuals without diabetes. From past medical records of diabetic patients from Hong Kong hospitals, we analyze how cancer-risk can be predicted X years (e.g. 3 years) before cancer onset so that some preemptive measures can be taken. To predict cancer-risk from EHR data, we utilize Gated Recurrent Unit (GRU)-based autoencoders for feature representation of di@erent laboratory measurements. Later, these represented features from GRU network are incorporated along with demographic features into a second vanilla neural network which predicts risk of developing cancer in the coming X years. In this project, we are trying to tackle key challenges of clinical data like missing values, variable feature length for di@erent patients, variable measurement window, class imbalance etc. and also capture time sensitive patterns from di@erent laboratory measurements that contribute to cancer development. This is an ongoing project that I am leading, and we are currently in the model building phase.
@@ -71,10 +66,7 @@ Predicting protein function from sequence information only is a di@icult task sp
 ### 2. [“Ten quick tips for ensuring Machine Learning model validity”](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012402), Wilson Wen Bin Goh, Mohammad Neamul Kabir, Sehwan Yoo, Limsoon Wong, PLOS Computational Biology 20, no. 9 (2024)
 ### 3. [“EnsembleFam: towards more accurate protein family prediction in the twilight zone”](https://link.springer.com/article/10.1186/s12859-022-04626-w), Mohammad Neamul Kabir, Limsoon Wong, BMC Bioinformatics 23, no. 1 (2022)
 
-<details>
-  <summary> <h2><b>Previous Work Experiences</b></h2>  (click to view more)</summary>
-
-  ##
+  ## Previous Work Experiences
 
   #### Research Fellow
   * **Instituition:** LKC School of Medicine, NTU, Singapore
@@ -87,12 +79,8 @@ Predicting protein function from sequence information only is a di@icult task sp
   #### Lecturer
   * **Instituition:** Ahsanullah University of Science and Technology, Bangladesh
   * **Period:** May'2017 to December'2017
-</details>
 
-<details>
-  <summary> <h2><b>Education</b></h2>  (click to view more)</summary>
-
-  ##
+  ## Education
 
   ### Ph.D. in Computer Science
   * **Instituition:** School of Computing, National University of Singapore, Singapore
@@ -105,8 +93,6 @@ Predicting protein function from sequence information only is a di@icult task sp
   * **Graduated:** March, 2017
   * **Undergraduate Thesis Title:** [Detection and correction of errors in genome in assemblies](https://drive.google.com/file/d/0B9aLIZr0gSIjckllRmhNcElVTkk/view?usp=sharing&resourcekey=0-o6Jv_BBA07xi9ptLf_LcoQ)
   * **Thesis Advisor:** [Assoc Professor Atif Hasan Rahman](https://cse.buet.ac.bd/web/faculty_list/detail/atif)
-  
-</details>
 
 ### Other activities
 * Presented *EnsembleFam* at Young Researcher track in GIW'2023 conference, Singapore
