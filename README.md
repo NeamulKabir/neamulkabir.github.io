@@ -7,7 +7,7 @@ An aspiring researcher and educator, want to flourish in data science and machin
 ## Current Position
 At present, I am working as a **Research Fellow** at *Centre of AI in Medicine* at Lee Kong Chian School of Medicine in NTU. Here, I work with clinician scientists to analyze clinical data and build advanced machine learning models for different clinical prediction task such as early disease risk prediction, ICU mortality prediction, hospital re-admission prediction etc.
 
-<details>
+<details markdown="1">
 <summary> <h2><b>Teaching</b></h2>  (click to view more)</summary>
   
 ##
