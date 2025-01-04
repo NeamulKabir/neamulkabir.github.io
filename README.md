@@ -62,7 +62,7 @@ Predicting protein function from sequence information only is a di@icult task sp
 
 
 ## Publications
-### 1. “Exploiting the Similarity of Dissimilarities for Biomedical Applications and Enhanced Machine Learning”, Mohammad Neamul Kabir, Wang Li Rong, Wilson Wen Bin Goh, PLOS Computational Biology (in press), 2024
+### 1. [“Exploiting the Similarity of Dissimilarities for Biomedical Applications and Enhanced Machine Learning”](), Mohammad Neamul Kabir, Wang Li Rong, Wilson Wen Bin Goh, PLOS Computational Biology (in press), 2024
 ### 2. [“Ten quick tips for ensuring Machine Learning model validity”](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012402), Wilson Wen Bin Goh, Mohammad Neamul Kabir, Sehwan Yoo, Limsoon Wong, PLOS Computational Biology 20, no. 9 (2024)
 ### 3. [“EnsembleFam: towards more accurate protein family prediction in the twilight zone”](https://link.springer.com/article/10.1186/s12859-022-04626-w), Mohammad Neamul Kabir, Limsoon Wong, BMC Bioinformatics 23, no. 1 (2022)
 
