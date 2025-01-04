@@ -68,11 +68,10 @@ Predicting protein function from sequence information only is a di@icult task sp
 
 
 ## Previous Work Experiences
-
   #### Research Fellow
   * **Instituition:** LKC School of Medicine, NTU, Singapore
   * **Period:** March'2023 to Present
-
+    
   #### Research Assistant
   * **Instituition:** LKC School of Medicine, NTU, Singapore
   * **Period:** August'2022 to March'2023
@@ -82,7 +81,6 @@ Predicting protein function from sequence information only is a di@icult task sp
   * **Period:** May'2017 to December'2017
 
 ## Education
-
   ### Ph.D. in Computer Science
   * **Instituition:** School of Computing, National University of Singapore, Singapore
   * **Graduated:** February, 2023 (NUS Class of 2023)
